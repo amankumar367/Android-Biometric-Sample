@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Biomatric Sample</string>
+    <string name="authenticate">Authenticate Finger\nPrint</string>
+</resources>
