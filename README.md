@@ -6,5 +6,4 @@
 <img src = "https://github.com/amankumar367/Android-Biometric-Sample/blob/master/Screenshots/Android%20P.png" />
 
 - Below Android P
-<img src = "https://github.com/amankumar367/Android-Biometric-Sample/blob/master/Screenshots/Android%20O.png" />
-<img src = "https://github.com/amankumar367/Android-Biometric-Sample/blob/master/Screenshots/Android%20O%20-%20Authentication%20Failed.png" />
+<img src = "https://github.com/amankumar367/Android-Biometric-Sample/blob/master/Screenshots/Android%20O.gif" />
